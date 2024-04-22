@@ -3,7 +3,7 @@ games { 'gta5' }
 
 author 'HenkW'
 description 'Simple dealer script that allows players to sell illegal items'
-version '1.0.1'
+version '1.0.2'
 
 client_scripts {
     'client/main.lua',
